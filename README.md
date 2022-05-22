@@ -1,0 +1,2 @@
+# covid19_election2020
+This study investigates how the American public responded in the polls to the COVID-19 pandemic, hypothesizing the following: the counties with more exposure to COVID-19 will blame the Republican party more in the 2020 elections. In addition, Majority Democrat counties will blame Trump in the polls more significantly than majority Republican counties of the same level of exposure to COVID-19.
